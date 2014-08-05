@@ -4,3 +4,5 @@ git tracks changes of files
 My stupid boss still prefers svn
 
 Create a new branch is quick And simple
+
+分支管理

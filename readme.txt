@@ -8,4 +8,7 @@ Create a new branch is quick And simple
 分支管理
 
 stash功能
+
 my push
+other person
+
